@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run plt.py
+web: sh setup.sh && streamlit run plan.py
