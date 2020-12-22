@@ -1,5 +1,5 @@
-import numpy as np
 import streamlit as st
+import numpy as np
 import operator
 import pandas as pd
 col1, col2,col3, col4 = st.beta_columns(4)
